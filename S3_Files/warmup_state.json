@@ -1,0 +1,9 @@
+{
+  "state": "warming",
+  "service": "lambda",
+  "warmup_time": 30,
+  "resource_count": 3
+}
+
+
+  

@@ -1,0 +1,9 @@
+{
+    "instances": [
+        {
+            "instance_id": "REDACTED",
+            "public_dns_name": "example.amazonaws.com",
+            "state": "running"
+        }
+    ]
+}
