@@ -29,6 +29,8 @@ All instance IDs, DNS names, and bucket names are redacted or placeholders.
 
 Never commit your .env file or real credentials to public repositories.
 
+SOME FUNCTIONS ARE NOT READY YET, just exist as a sample.
+
 Customization
 Edit lambda_function.py for your own analysis or compute logic.
 
